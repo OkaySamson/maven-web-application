@@ -109,7 +109,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>SamsonJenkins</finalName>
+		<finalName>SamsonFullJenkinsCI</finalName>
 		
 		<plugins>
 			<plugin>
